@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>ListView.Pagination</id>
+    <version>1.0.0</version>
+    <title>Listview Pagination</title>
+    <authors>Royette Camahalan</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/RoyetteCamahalan/listviewpagination</projectUrl>
+    <description>Custom listview control with pagination</description>
+    <releaseNotes>Initial package release.</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>Pagination Listview</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0.0" />
+    </dependencies>  
+  </metadata>
+</package>
