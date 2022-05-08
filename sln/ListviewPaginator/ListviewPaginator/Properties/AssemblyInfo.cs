@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pagination.Web")]
+[assembly: AssemblyTitle("ListviewPaginator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Royette Camahalan")]
-[assembly: AssemblyProduct("Pagination.Web")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ListviewPaginator")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("41e47d05-d936-4059-8dd9-d8ddd0000527")]
+[assembly: Guid("b79575f4-7df1-4a74-b59a-e2d6c6efe995")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagination.Web", "Pagination.Web\Pagination.Web.csproj", "{41E47D05-D936-4059-8DD9-D8DDD0000527}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListviewPaginator", "ListviewPaginator\ListviewPaginator.csproj", "{B79575F4-7DF1-4A74-B59A-E2D6C6EFE995}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{41E47D05-D936-4059-8DD9-D8DDD0000527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41E47D05-D936-4059-8DD9-D8DDD0000527}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41E47D05-D936-4059-8DD9-D8DDD0000527}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41E47D05-D936-4059-8DD9-D8DDD0000527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79575F4-7DF1-4A74-B59A-E2D6C6EFE995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79575F4-7DF1-4A74-B59A-E2D6C6EFE995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79575F4-7DF1-4A74-B59A-E2D6C6EFE995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79575F4-7DF1-4A74-B59A-E2D6C6EFE995}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2EDE903B-F57D-4F10-BE7E-ACF917856206}
+		SolutionGuid = {0802EBBD-9DEB-4054-9C82-A1AD3167A950}
 	EndGlobalSection
 EndGlobal
