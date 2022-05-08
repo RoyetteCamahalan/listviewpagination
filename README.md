@@ -2,7 +2,14 @@
 Custom control derived from Listview which performs pagination for large lists.
 ###### *I love to hear suggestions/feedbacks from you. Kindly post issue if encountered or request new features. Thank You!*
 
-## Version 1.0.1
+
+###### *This library may not work on via nuget. If not, copy Bootstrap.ascx to your project then register user control.*
+
+```
+<%@ Register TagName="Bootstrap" Src="Bootstrap.ascx" TagPrefix="paginator"%>
+```
+
+## Version 1.0.2
 
 #### Supported data source types
 - Datatable
