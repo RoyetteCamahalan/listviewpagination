@@ -2,7 +2,14 @@
 Custom control derived from Listview which performs pagination for large lists.
 ###### *I love to hear suggestions/feedbacks from you. Kindly post issue if encountered or request new features. Thank You!*
 
-## Version 1.0.1
+
+###### *This library may not work on via nuget. If not, copy BootstrapPage.ascx to your project then register user control.*
+
+```
+<%@ Register TagName="Bootstrap" Src="BootstrapPage.ascx" TagPrefix="paginator"%>
+```
+
+## Version 1.0.3
 
 #### Supported data source types
 - Datatable
@@ -15,6 +22,8 @@ Custom control derived from Listview which performs pagination for large lists.
 *(string)* Specify place holder ID inside LayoutTemplate. Not required if LayoutTemplate is empty.
 ###### - lengthChange
 *(boolean)* Allow page size change *(10 | 25 | 50 | 100)*. Default value is `true`.
+###### - allowSearch
+*(Coming Soon)*
 
 #### Method
 ###### - Bind
