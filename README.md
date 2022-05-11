@@ -11,6 +11,16 @@ Custom control derived from Listview which performs pagination for large lists.
 
 ## Version 1.0.3
 
+### Installation
+-Via **[Package Manager Console](https://docs.microsoft.com/en-us/nuget/consume-packages/install-use-packages-powershell)**
+```
+PM> Install-Package ListView.Pagination -Version 1.0.3
+```
+-Via **[Dot Net CLI](https://docs.microsoft.com/en-us/dotnet/core/tools/)**
+```
+> dotnet add package ListView.Pagination --version 1.0.3
+```
+
 #### Supported data source types
 - Datatable
 - List (List<T>)
