@@ -58,18 +58,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bootstrap.ascx.cs">
-      <DependentUpon>Bootstrap.ascx</DependentUpon>
+    <Compile Include="Bootstrap.cs">
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Bootstrap.ascx.designer.cs">
-      <DependentUpon>Bootstrap.ascx</DependentUpon>
-    </Compile>
+    <Compile Include="Interface\IPageTemplate.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="Bootstrap.ascx" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

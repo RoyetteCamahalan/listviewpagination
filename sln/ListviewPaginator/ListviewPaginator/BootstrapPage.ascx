@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Bootstrap.ascx.cs" Inherits="ListviewPaginator.Bootstrap" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="BootstrapPage.ascx.cs" Inherits="ListviewPaginator.BootstrapPage" %>
 
 <!--
     Created By: Royette Camahalan

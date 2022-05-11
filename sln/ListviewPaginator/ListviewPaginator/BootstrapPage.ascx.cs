@@ -10,7 +10,7 @@ using System.Web.UI.WebControls;
 
 namespace ListviewPaginator
 {
-    public partial class Bootstrap : System.Web.UI.UserControl
+    public partial class BootstrapPage : System.Web.UI.UserControl
     {
         #region "Properties"
         private int pageIndex

@@ -11,7 +11,7 @@ namespace ListviewPaginator
 {
 
 
-    public partial class Bootstrap
+    public partial class BootstrapPage
     {
 
         /// <summary>
