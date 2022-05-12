@@ -21,6 +21,7 @@ PM> Install-Package ListView.Pagination -Version 1.0.3
 > dotnet add package ListView.Pagination --version 1.0.3
 ```
 
+![Sample Image](https://raw.githubusercontent.com/RoyetteCamahalan/listviewpagination/main/assets/sampleimg.png)
 #### Supported data source types
 - Datatable
 - List (List<T>)
